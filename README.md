@@ -2,8 +2,6 @@
 ### Name 0: YOUR NAME HERE
 ### Name 1: OTHER NAME HERE (delete this line if not applicable
 ### Name 2: OTHER NAME HERE (delete this line if not applicable)
-### Class period:
-
 ---
 
 ### Project Description
