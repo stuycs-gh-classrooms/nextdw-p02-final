@@ -9,8 +9,8 @@
 ### Project Description
 Provide a high-level description of your project. Include explanatory links if you think they will be helpful.
 
-### Class Topic Usage
-Explain what topics from this year you will be using in this project, and how they will be used.
+### Skill Usage
+Explain what skills from this semester you will be using in this project, and how they will be used. Se
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
